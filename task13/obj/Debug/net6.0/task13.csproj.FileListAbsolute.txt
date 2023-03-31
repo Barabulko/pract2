@@ -1,0 +1,15 @@
+C:\Users\DNS-PC\Desktop\Ванино\обучение\C#\pract2\task13\obj\Debug\net6.0\task13.csproj.AssemblyReference.cache
+C:\Users\DNS-PC\Desktop\Ванино\обучение\C#\pract2\task13\obj\Debug\net6.0\task13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DNS-PC\Desktop\Ванино\обучение\C#\pract2\task13\obj\Debug\net6.0\task13.AssemblyInfoInputs.cache
+C:\Users\DNS-PC\Desktop\Ванино\обучение\C#\pract2\task13\obj\Debug\net6.0\task13.AssemblyInfo.cs
+C:\Users\DNS-PC\Desktop\Ванино\обучение\C#\pract2\task13\obj\Debug\net6.0\task13.csproj.CoreCompileInputs.cache
+C:\Users\DNS-PC\Desktop\Ванино\обучение\C#\pract2\task13\bin\Debug\net6.0\task13.exe
+C:\Users\DNS-PC\Desktop\Ванино\обучение\C#\pract2\task13\bin\Debug\net6.0\task13.deps.json
+C:\Users\DNS-PC\Desktop\Ванино\обучение\C#\pract2\task13\bin\Debug\net6.0\task13.runtimeconfig.json
+C:\Users\DNS-PC\Desktop\Ванино\обучение\C#\pract2\task13\bin\Debug\net6.0\task13.dll
+C:\Users\DNS-PC\Desktop\Ванино\обучение\C#\pract2\task13\bin\Debug\net6.0\task13.pdb
+C:\Users\DNS-PC\Desktop\Ванино\обучение\C#\pract2\task13\obj\Debug\net6.0\task13.dll
+C:\Users\DNS-PC\Desktop\Ванино\обучение\C#\pract2\task13\obj\Debug\net6.0\refint\task13.dll
+C:\Users\DNS-PC\Desktop\Ванино\обучение\C#\pract2\task13\obj\Debug\net6.0\task13.pdb
+C:\Users\DNS-PC\Desktop\Ванино\обучение\C#\pract2\task13\obj\Debug\net6.0\task13.genruntimeconfig.cache
+C:\Users\DNS-PC\Desktop\Ванино\обучение\C#\pract2\task13\obj\Debug\net6.0\ref\task13.dll
